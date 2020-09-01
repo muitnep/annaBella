@@ -26,6 +26,15 @@ a {
     padding: 5px;
 }
 
+h1 {
+    color: #828271;
+    font-size: 1.2rem;
+}
+
 h4 {
     text-align: center;
+}
+
+.img-campanha {
+    border: 10px solid #c3c3c3;
 }
